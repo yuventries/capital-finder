@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Gambia",
+    "slug": "gambia",
+    "iso2": "gm",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "currency": "Gambian Dalasi (GMD)",
+    "population": "2.8 million",
+    "language": "English",
+    "fact": "Renowned as a vibrant birdwatching paradise, Gambia provides vital habitat to more than five hundred avian species along the scenic waterway of the Gambia River."
+  },
+  {
+    "name": "Ghana",
+    "slug": "ghana",
+    "iso2": "gh",
+    "capital": "Accra",
+    "continent": "Africa",
+    "currency": "Ghanaian Cedi (GHS)",
+    "population": "34 million",
+    "language": "English",
+    "fact": "Kakum National Park features a celebrated canopy walkway suspended forty meters above the forest floor, offering visitors spectacular panoramic views of untouched tropical rainforest."
+  },
+  {
+    "name": "Guinea",
+    "slug": "guinea",
+    "iso2": "gn",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "currency": "Guinean Franc (GNF)",
+    "population": "15 million",
+    "language": "French",
+    "fact": "Rising dramatically across the highlands, the Fouta Djallon plateau forms West Africa's primary water tower, feeding the headwaters of the iconic Niger and Senegal rivers."
+  },
+  {
+    "name": "Guinea-Bissau",
+    "slug": "guinea-bissau",
+    "iso2": "gw",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "2.2 million",
+    "language": "Portuguese",
+    "fact": "The lush Bijagós Archipelago encompasses eighty-eight islands designated as a UNESCO Biosphere Reserve, famous for rare saltwater hippopotamuses and thriving marine turtle nesting sanctuaries."
+  },
+  {
+    "name": "Kenya",
+    "slug": "kenya",
+    "iso2": "ke",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "currency": "Kenyan Shilling (KES)",
+    "population": "56 million",
+    "language": "Swahili, English",
+    "fact": "Generating approximately ninety percent of its electricity from geothermal steam, wind, and solar installations, Kenya stands as a global champion of clean renewable energy."
+  },
+  {
+    "name": "Lesotho",
+    "slug": "lesotho",
+    "iso2": "ls",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "currency": "Lesotho Loti (LSL)",
+    "population": "2.3 million",
+    "language": "Sesotho, English",
+    "fact": "Perched high in the Maloti Mountains, Lesotho is the only sovereign country in the world situated entirely above fourteen hundred meters in altitude."
+  },
+  {
+    "name": "Liberia",
+    "slug": "liberia",
+    "iso2": "lr",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "currency": "Liberian Dollar (LRD)",
+    "population": "5.6 million",
+    "language": "English",
+    "fact": "Dense tropical wilderness within Sapo National Park safeguards one of West Africa's last primary rainforests, providing vital protection for endangered pygmy hippos."
+  },
+  {
+    "name": "Libya",
+    "slug": "libya",
+    "iso2": "ly",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "currency": "Libyan Dinar (LYD)",
+    "population": "7.4 million",
+    "language": "Arabic",
+    "fact": "Along the Mediterranean coast, the UNESCO World Heritage site of Leptis Magna preserves magnificent Roman architectural treasures, including an imposing amphitheater and ornate marble temples."
+  },
+  {
+    "name": "Madagascar",
+    "slug": "madagascar",
+    "iso2": "mg",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "currency": "Malagasy Ariary (MGA)",
+    "population": "32 million",
+    "language": "Malagasy, French",
+    "fact": "Spectacular century-old trees frame the famous Avenue of the Baobabs, creating one of the world's most iconic and enchanting natural landscapes."
+  },
+  {
+    "name": "Malawi",
+    "slug": "malawi",
+    "iso2": "mw",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "currency": "Malawian Kwacha (MWK)",
+    "population": "22 million",
+    "language": "English, Chichewa",
+    "fact": "Lake Malawi National Park protects an unparalleled aquatic ecosystem harboring hundreds of brilliantly colored cichlid fish species found nowhere else on the planet."
+  },
+  {
+    "name": "Mali",
+    "slug": "mali",
+    "iso2": "ml",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "24 million",
+    "language": "Bambara, French",
+    "fact": "Constructed entirely from sun-baked earthen bricks, the Great Mosque of Djenné stands as the largest adobe architectural masterpiece on Earth and a treasured UNESCO site."
+  },
+  {
+    "name": "Mauritania",
+    "slug": "mauritania",
+    "iso2": "mr",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "currency": "Mauritanian Ouguiya (MRU)",
+    "population": "5.2 million",
+    "language": "Arabic",
+    "fact": "Visible even to astronauts orbiting Earth, the enormous Richat Structure forms a mesmerizing circular geological formation across the Mauritanian Sahara."
+  },
+  {
+    "name": "Mauritius",
+    "slug": "mauritius",
+    "iso2": "mu",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "currency": "Mauritian Rupee (MUR)",
+    "population": "1.3 million",
+    "language": "English, French",
+    "fact": "At Chamarel, natural dunes display seven distinct colors of volcanic sands that magically settle into vibrant stratified bands under the tropical sun."
+  },
+  {
+    "name": "Morocco",
+    "slug": "morocco",
+    "iso2": "ma",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "currency": "Moroccan Dirham (MAD)",
+    "population": "37 million",
+    "language": "Arabic, Tamazight",
+    "fact": "Founded in 859 AD in Fez, the University of al-Qarawiyyin holds the distinction of being the world's oldest continually operating institution of higher learning."
+  },
+  {
+    "name": "Mozambique",
+    "slug": "mozambique",
+    "iso2": "mz",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "currency": "Mozambican Metical (MZN)",
+    "population": "35 million",
+    "language": "Portuguese",
+    "fact": "Pristine coastal waters surrounding the Bazaruto Archipelago safeguard East Africa's largest viable population of rare dugongs alongside vibrant coral reefs."
+  },
+  {
+    "name": "Namibia",
+    "slug": "namibia",
+    "iso2": "na",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "currency": "Namibian Dollar (NAD)",
+    "population": "3 million",
+    "language": "English",
+    "fact": "Namibia was the first African nation to write environmental protection directly into its constitution, fostering community conservancies that allow wildlife populations to flourish."
+  }
+]

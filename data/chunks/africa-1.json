@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Algeria",
+    "slug": "algeria",
+    "iso2": "dz",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "currency": "Algerian Dinar (DZD)",
+    "population": "46 million",
+    "language": "Arabic, Tamazight",
+    "fact": "Spanning prehistoric rock art and dramatic sandstone forests, the vast plateau of Tassili n'Ajjer preserves thousands of ancient carvings that reveal the Sahara's lush green past."
+  },
+  {
+    "name": "Angola",
+    "slug": "angola",
+    "iso2": "ao",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "currency": "Angolan Kwanza (AOA)",
+    "population": "37 million",
+    "language": "Portuguese",
+    "fact": "Angola gifted the world Kizomba music and dance, a soulful and captivating rhythm that has inspired dance communities across every continent."
+  },
+  {
+    "name": "Benin",
+    "slug": "benin",
+    "iso2": "bj",
+    "capital": "Porto-Novo (official; Cotonou seat of government)",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "14 million",
+    "language": "French",
+    "fact": "Built entirely upon wooden stilts over Lake Nokoué, the historic stilt village of Ganvié thrives as a vibrant community celebrating centuries of aquatic architectural ingenuity."
+  },
+  {
+    "name": "Botswana",
+    "slug": "botswana",
+    "iso2": "bw",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "currency": "Botswana Pula (BWP)",
+    "population": "2.7 million",
+    "language": "English, Setswana",
+    "fact": "The inland oasis of the Okavango Delta sustains Africa's largest elephant population, flourishing through Botswana's pioneering model of low-impact, high-value wildlife ecotourism."
+  },
+  {
+    "name": "Burkina Faso",
+    "slug": "burkina-faso",
+    "iso2": "bf",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "23 million",
+    "language": "French",
+    "fact": "Biennially hosting the celebrated FESPACO festival in Ouagadougou, the nation unites storytellers from across the globe as the proud capital of African cinema."
+  },
+  {
+    "name": "Burundi",
+    "slug": "burundi",
+    "iso2": "bi",
+    "capital": "Gitega (political; Bujumbura economic)",
+    "continent": "Africa",
+    "currency": "Burundian Franc (BIF)",
+    "population": "13.6 million",
+    "language": "Kirundi, French",
+    "fact": "Burundi's iconic royal drummers perform mesmerizing polyrhythmic rituals recognized by UNESCO, weaving athletic choreography and thunderous beats into an internationally acclaimed art form."
+  },
+  {
+    "name": "Cabo Verde",
+    "slug": "cabo-verde",
+    "iso2": "cv",
+    "capital": "Praia",
+    "continent": "Africa",
+    "currency": "Cape Verdean Escudo (CVE)",
+    "population": "600,000",
+    "language": "Portuguese",
+    "fact": "Cape Verde's soulful Morna musical tradition, championed globally by Cesária Évora, earned UNESCO recognition for its poignant poetry, acoustic harmonies, and profound emotional depth."
+  },
+  {
+    "name": "Cameroon",
+    "slug": "cameroon",
+    "iso2": "cm",
+    "capital": "Yaoundé",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc (XAF)",
+    "population": "29 million",
+    "language": "French, English",
+    "fact": "Affectionately celebrated as 'Africa in miniature,' Cameroon encompasses every major climate and landscape of the continent, from lush equatorial rainforests to windswept volcanic peaks."
+  },
+  {
+    "name": "Central African Republic",
+    "slug": "central-african-republic",
+    "iso2": "cf",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc (XAF)",
+    "population": "5.3 million",
+    "language": "French, Sango",
+    "fact": "Dzanga-Sangha National Park features a legendary mineral clearing where hundreds of majestic forest elephants gather peacefully alongside western lowland gorillas amidst pristine tropical wilderness."
+  },
+  {
+    "name": "Chad",
+    "slug": "chad",
+    "iso2": "td",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc (XAF)",
+    "population": "19 million",
+    "language": "French, Arabic",
+    "fact": "Shimmering amidst the hyper-arid Sahara, the breathtaking Lakes of Ounianga form an extraordinary UNESCO-listed oasis fed continuously by ancient subterranean fossil water."
+  },
+  {
+    "name": "Comoros",
+    "slug": "comoros",
+    "iso2": "km",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "currency": "Comorian Franc (KMF)",
+    "population": "860,000",
+    "language": "Comorian, French",
+    "fact": "Known as the Perfume Isles, Comoros harvests fragrant ylang-ylang flowers that supply the global luxury fragrance industry with essential oils of unmatched purity."
+  },
+  {
+    "name": "Republic of the Congo",
+    "slug": "republic-of-the-congo",
+    "iso2": "cg",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc (XAF)",
+    "population": "6.2 million",
+    "language": "French, Lingala",
+    "fact": "Brazzaville earned recognition as the first African capital designated a UNESCO City of Music, celebrating a vibrant heritage of infectious Congolese rumba."
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "slug": "democratic-republic-of-the-congo",
+    "iso2": "cd",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "currency": "Congolese Franc (CDF)",
+    "population": "106 million",
+    "language": "French, Lingala",
+    "fact": "Nestled within northeastern rainforests, the Okapi Wildlife Reserve protects the elusive striped forest giraffe and preserves vital tropical biodiversity found nowhere else on Earth."
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "slug": "cote-divoire",
+    "iso2": "ci",
+    "capital": "Yamoussoukro (political; Abidjan economic)",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "31 million",
+    "language": "French",
+    "fact": "As the world's leading producer of cocoa, Côte d'Ivoire supplies the essential foundation for premier artisan chocolatiers and confectioners around the globe."
+  },
+  {
+    "name": "Djibouti",
+    "slug": "djibouti",
+    "iso2": "dj",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "currency": "Djiboutian Franc (DJF)",
+    "population": "1.1 million",
+    "language": "Arabic, French",
+    "fact": "Coastal waters in the Gulf of Tadjoura provide a world-renowned haven where marine enthusiasts can swim alongside majestic whale sharks during their seasonal feeding migrations."
+  },
+  {
+    "name": "Egypt",
+    "slug": "egypt",
+    "iso2": "eg",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "currency": "Egyptian Pound (EGP)",
+    "population": "114 million",
+    "language": "Arabic",
+    "fact": "Harnessing abundant desert sunshine near Aswan, the colossal Benban Solar Park ranks among the world's largest photovoltaic installations, driving clean energy transition across North Africa."
+  },
+  {
+    "name": "Equatorial Guinea",
+    "slug": "equatorial-guinea",
+    "iso2": "gq",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc (XAF)",
+    "population": "1.7 million",
+    "language": "Spanish, French",
+    "fact": "Monte Alén National Park preserves pristine tropical rainforests across rugged highlands, providing an essential ecological sanctuary for endangered western lowland gorillas and rare forest elephants."
+  },
+  {
+    "name": "Eritrea",
+    "slug": "eritrea",
+    "iso2": "er",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "currency": "Eritrean Nakfa (ERN)",
+    "population": "3.7 million",
+    "language": "Tigrinya, Arabic",
+    "fact": "Asmara boasts a remarkably preserved modernist cityscape recognized by UNESCO, showcasing superb Art Deco cinemas, cafes, and futuristic architecture along palm-lined boulevards."
+  },
+  {
+    "name": "Eswatini",
+    "slug": "eswatini",
+    "iso2": "sz",
+    "capital": "Mbabane (administrative; Lobamba royal and legislative)",
+    "continent": "Africa",
+    "currency": "Swazi Lilangeni (SZL)",
+    "population": "1.2 million",
+    "language": "English, Swazi",
+    "fact": "Artisans at Ngwenya Glass craft internationally admired handmade sculptures and glassware entirely from recycled materials, supporting community conservation funds across the Kingdom."
+  },
+  {
+    "name": "Ethiopia",
+    "slug": "ethiopia",
+    "iso2": "et",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "currency": "Ethiopian Birr (ETB)",
+    "population": "128 million",
+    "language": "Amharic, English",
+    "fact": "Celebrated as the ancestral birthplace of Arabica coffee, Ethiopia shares an enduring gift with humanity through its elaborate and hospitality-centered traditional coffee ceremonies."
+  },
+  {
+    "name": "Gabon",
+    "slug": "gabon",
+    "iso2": "ga",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc (XAF)",
+    "population": "2.4 million",
+    "language": "French",
+    "fact": "With over eighty percent of its territory blanketed in pristine rainforest, Gabon protects vast wilderness corridors that make it an essential global carbon sink."
+  }
+]

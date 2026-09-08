@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Argentina",
+    "slug": "argentina",
+    "iso2": "ar",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "currency": "Argentine Peso (ARS)",
+    "population": "46 million",
+    "language": "Spanish",
+    "fact": "Celebrated worldwide for dramatic flair, Argentine tango originated in Buenos Aires dance halls and continues to captivate global audiences as an esteemed UNESCO Intangible Cultural Heritage."
+  },
+  {
+    "name": "Bolivia",
+    "slug": "bolivia",
+    "iso2": "bo",
+    "capital": "Sucre (constitutional; La Paz seat of government)",
+    "continent": "South America",
+    "currency": "Bolivian Boliviano (BOB)",
+    "population": "12 million",
+    "language": "Spanish, Quechua",
+    "fact": "The celestial expanse of Salar de Uyuni, spanning ten thousand square kilometers, transforms into Earth's largest natural mirror whenever seasonal rainwater blankets the pristine white salt flats."
+  },
+  {
+    "name": "Brazil",
+    "slug": "brazil",
+    "iso2": "br",
+    "capital": "Brasília",
+    "continent": "South America",
+    "currency": "Brazilian Real (BRL)",
+    "population": "216 million",
+    "language": "Portuguese",
+    "fact": "An Atlantic sanctuary of dramatic volcanic peaks, Fernando de Noronha protects teeming coral reefs, resident spinner dolphins, and vital nesting grounds for endangered sea turtles."
+  },
+  {
+    "name": "Chile",
+    "slug": "chile",
+    "iso2": "cl",
+    "capital": "Santiago",
+    "continent": "South America",
+    "currency": "Chilean Peso (CLP)",
+    "population": "20 million",
+    "language": "Spanish",
+    "fact": "Astronomers worldwide gather in the Atacama Desert to utilize world-class optical and radio observatories, benefiting from some of the clearest nighttime skies on Earth."
+  },
+  {
+    "name": "Colombia",
+    "slug": "colombia",
+    "iso2": "co",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "currency": "Colombian Peso (COP)",
+    "population": "52 million",
+    "language": "Spanish",
+    "fact": "More than nineteen hundred distinct bird species thrive across Colombia's diverse Andean ecosystems and Amazonian rainforests, making it the most bird-rich nation on Earth."
+  },
+  {
+    "name": "Ecuador",
+    "slug": "ecuador",
+    "iso2": "ec",
+    "capital": "Quito",
+    "continent": "South America",
+    "currency": "United States Dollar (USD)",
+    "population": "18 million",
+    "language": "Spanish",
+    "fact": "Because of the planet's equatorial bulge, the snow-capped summit of Mount Chimborazo represents the closest terrestrial point on Earth to the sun and outer space."
+  },
+  {
+    "name": "Guyana",
+    "slug": "guyana",
+    "iso2": "gy",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "currency": "Guyanese Dollar (GYD)",
+    "population": "820,000",
+    "language": "English",
+    "fact": "Surrounded by vast untouched rainforest, the majestic Kaieteur Falls plunges over two hundred meters in a single breathtaking drop, creating one of the world's most powerful waterfalls."
+  },
+  {
+    "name": "Paraguay",
+    "slug": "paraguay",
+    "iso2": "py",
+    "capital": "Asunción",
+    "continent": "South America",
+    "currency": "Paraguayan Guaraní (PYG)",
+    "population": "6.9 million",
+    "language": "Spanish, Guaraní",
+    "fact": "Colossal hydroelectric installations on the Paraná River allow Paraguay to generate virtually all of its domestic electricity from clean, renewable energy."
+  },
+  {
+    "name": "Peru",
+    "slug": "peru",
+    "iso2": "pe",
+    "capital": "Lima",
+    "continent": "South America",
+    "currency": "Peruvian Sol (PEN)",
+    "population": "34 million",
+    "language": "Spanish, Quechua",
+    "fact": "Machu Picchu showcases extraordinary fifteenth-century Inca engineering high along an Andean ridge, where interlocking granite stones stand in perfect harmony without mortar."
+  },
+  {
+    "name": "Suriname",
+    "slug": "suriname",
+    "iso2": "sr",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "currency": "Surinamese Dollar (SRD)",
+    "population": "630,000",
+    "language": "Dutch",
+    "fact": "Dense tropical canopy carpets more than ninety percent of Suriname's territory, establishing it as the planet's most heavily forested nation and a carbon-negative haven."
+  },
+  {
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "iso2": "uy",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "currency": "Uruguayan Peso (UYU)",
+    "population": "3.4 million",
+    "language": "Spanish",
+    "fact": "Pioneering digital education worldwide through Plan Ceibal, Uruguay became the first nation to equip every public school student with a personal laptop and wireless internet connectivity."
+  },
+  {
+    "name": "Venezuela",
+    "slug": "venezuela",
+    "iso2": "ve",
+    "capital": "Caracas",
+    "continent": "South America",
+    "currency": "Venezuelan Bolívar (VES)",
+    "population": "29 million",
+    "language": "Spanish",
+    "fact": "Plunging from the towering cliffs of Auyán-tepui in Canaima National Park, Angel Falls drops nearly one thousand meters as Earth's tallest uninterrupted waterfall."
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Australia",
+    "slug": "australia",
+    "iso2": "au",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "currency": "Australian Dollar (AUD)",
+    "population": "26.7 million",
+    "language": "English",
+    "fact": "Australia shelters the Great Barrier Reef, the world's largest coral reef system, visible even from space and teeming with thousands of marine species."
+  },
+  {
+    "name": "Fiji",
+    "slug": "fiji",
+    "iso2": "fj",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "currency": "Fijian Dollar (FJD)",
+    "population": "936,000",
+    "language": "Fijian, English",
+    "fact": "Renowned for warm hospitality, Fiji pioneered community-managed marine protected areas that safeguard vibrant coral reefs and sustain coastal communities across the archipelago."
+  },
+  {
+    "name": "Kiribati",
+    "slug": "kiribati",
+    "iso2": "ki",
+    "capital": "South Tarawa",
+    "continent": "Oceania",
+    "currency": "Australian Dollar (AUD)",
+    "population": "133,000",
+    "language": "English, Gilbertese",
+    "fact": "Straddling both the equator and the 180th meridian, Kiribati is the only nation in the world with territory situated across all four geographic hemispheres."
+  },
+  {
+    "name": "Marshall Islands",
+    "slug": "marshall-islands",
+    "iso2": "mh",
+    "capital": "Majuro",
+    "continent": "Oceania",
+    "currency": "United States Dollar (USD)",
+    "population": "42,000",
+    "language": "Marshallese, English",
+    "fact": "In 2011, the Marshall Islands created one of the world's largest shark sanctuaries, completely prohibiting commercial shark fishing across nearly two million square kilometers of ocean."
+  },
+  {
+    "name": "Micronesia",
+    "slug": "micronesia",
+    "iso2": "fm",
+    "capital": "Palikir",
+    "continent": "Oceania",
+    "currency": "United States Dollar (USD)",
+    "population": "115,000",
+    "language": "English",
+    "fact": "Constructed atop ninety artificial islets off Pohnpei, the ancient ruined city of Nan Madol represents a celebrated UNESCO World Heritage marvel of oceanic engineering."
+  },
+  {
+    "name": "Nauru",
+    "slug": "nauru",
+    "iso2": "nr",
+    "capital": "Yaren (de facto)",
+    "continent": "Oceania",
+    "currency": "Australian Dollar (AUD)",
+    "population": "13,000",
+    "language": "Nauruan, English",
+    "fact": "Renowned for its weightlifting prowess, Nauru has earned numerous Commonwealth Games medals, making it one of the world's most decorated sporting nations per capita."
+  },
+  {
+    "name": "New Zealand",
+    "slug": "new-zealand",
+    "iso2": "nz",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "currency": "New Zealand Dollar (NZD)",
+    "population": "5.3 million",
+    "language": "English, Māori",
+    "fact": "Becoming the first nation to grant women voting rights in 1893, New Zealand stands as a global pioneer in democratic equality and progressive governance."
+  },
+  {
+    "name": "Palau",
+    "slug": "palau",
+    "iso2": "pw",
+    "capital": "Ngerulmud",
+    "continent": "Oceania",
+    "currency": "United States Dollar (USD)",
+    "population": "18,000",
+    "language": "Palauan, English",
+    "fact": "Visitors to Palau sign the world's first ecological pledge stamped directly into their passports, promising children to preserve the island's pristine environment."
+  },
+  {
+    "name": "Papua New Guinea",
+    "slug": "papua-new-guinea",
+    "iso2": "pg",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "currency": "Papua New Guinean Kina (PGK)",
+    "population": "10.5 million",
+    "language": "Tok Pisin, English",
+    "fact": "Boasting extraordinary biodiversity, Papua New Guinea houses more than five percent of global plant and animal species within its lush tropical rainforests."
+  },
+  {
+    "name": "Samoa",
+    "slug": "samoa",
+    "iso2": "ws",
+    "capital": "Apia",
+    "continent": "Oceania",
+    "currency": "Samoan Tala (WST)",
+    "population": "225,000",
+    "language": "Samoan, English",
+    "fact": "Guided by the cultural philosophy of Fa'aSamoa, Samoans preserve ancestral heritage, harmonious communal living, and deep respect for natural surroundings."
+  },
+  {
+    "name": "Solomon Islands",
+    "slug": "solomon-islands",
+    "iso2": "sb",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "currency": "Solomon Islands Dollar (SBD)",
+    "population": "750,000",
+    "language": "English",
+    "fact": "The Arnavon Community Marine Park in the Solomon Islands provides a thriving sanctuary for the South Pacific's largest nesting population of endangered hawksbill sea turtles."
+  },
+  {
+    "name": "Tonga",
+    "slug": "tonga",
+    "iso2": "to",
+    "capital": "Nuku'alofa",
+    "continent": "Oceania",
+    "currency": "Tongan Pa'anga (TOP)",
+    "population": "107,000",
+    "language": "Tongan, English",
+    "fact": "Every year, humpback whales journey to the warm coastal waters of Tonga to mate and nurse their calves in peaceful ocean shelters."
+  },
+  {
+    "name": "Tuvalu",
+    "slug": "tuvalu",
+    "iso2": "tv",
+    "capital": "Funafuti",
+    "continent": "Oceania",
+    "currency": "Australian Dollar (AUD)",
+    "population": "11,000",
+    "language": "Tuvaluan, English",
+    "fact": "Community solar initiatives in Tuvalu supply clean energy to remote atolls, advancing the country's vision of relying entirely on renewable power."
+  },
+  {
+    "name": "Vanuatu",
+    "slug": "vanuatu",
+    "iso2": "vu",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "currency": "Vanuatu Vatu (VUV)",
+    "population": "335,000",
+    "language": "Bislama, English",
+    "fact": "Leading global environmental stewardship, Vanuatu became one of the first nations to ban single-use plastics, protecting vibrant marine habitats across its eighty-three tropical islands."
+  }
+]

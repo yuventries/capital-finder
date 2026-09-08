@@ -1,0 +1,211 @@
+[
+ {
+  "name": "Albania",
+  "slug": "albania",
+  "iso2": "al",
+  "capital": "Tirana",
+  "continent": "Europe",
+  "currency": "Albanian Lek (ALL)",
+  "population": "2.7 million",
+  "language": "Albanian",
+  "fact": "Declared in 2023, the Vjosa River National Park protects one of Europe's last wild, free-flowing rivers across its entire pristine ecosystem."
+ },
+ {
+  "name": "Andorra",
+  "slug": "andorra",
+  "iso2": "ad",
+  "capital": "Andorra la Vella",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "80,000",
+  "language": "Catalan",
+  "fact": "Nestled high in the Pyrenees mountains, this tranquil principality preserves the Madriu-Perafita-Claror Valley, a breathtaking glacial UNESCO World Heritage landscape."
+ },
+ {
+  "name": "Austria",
+  "slug": "austria",
+  "iso2": "at",
+  "capital": "Vienna",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "9.1 million",
+  "language": "German",
+  "fact": "Over three-quarters of the nation's electricity comes from renewable sources, propelled by extensive Alpine hydroelectric stations and expanding wind energy."
+ },
+ {
+  "name": "Belarus",
+  "slug": "belarus",
+  "iso2": "by",
+  "capital": "Minsk",
+  "continent": "Europe",
+  "currency": "Belarusian Ruble (BYN)",
+  "population": "9.2 million",
+  "language": "Belarusian, Russian",
+  "fact": "Sprawling across the southwestern border, the ancient Belovezhskaya Pushcha primeval forest shelters the continent's largest thriving population of wild European bison."
+ },
+ {
+  "name": "Belgium",
+  "slug": "belgium",
+  "iso2": "be",
+  "capital": "Brussels",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "11.8 million",
+  "language": "Dutch, French",
+  "fact": "Renowned globally for master chocolatiers, Belgian artisans invented the filled praline in 1912 and continue to produce world-class gourmet confections."
+ },
+ {
+  "name": "Bosnia and Herzegovina",
+  "slug": "bosnia-and-herzegovina",
+  "iso2": "ba",
+  "capital": "Sarajevo",
+  "continent": "Europe",
+  "currency": "Bosnia and Herzegovina Convertible Mark (BAM)",
+  "population": "3.2 million",
+  "language": "Bosnian, Croatian",
+  "fact": "Deep within Sutjeska National Park lies Perućica, one of Europe's rarest preserved primeval rainforests featuring towering centuries-old trees and cascading waterfalls."
+ },
+ {
+  "name": "Bulgaria",
+  "slug": "bulgaria",
+  "iso2": "bg",
+  "capital": "Sofia",
+  "continent": "Europe",
+  "currency": "Bulgarian Lev (BGN)",
+  "population": "6.4 million",
+  "language": "Bulgarian",
+  "fact": "Cultivated in the sunlit Rose Valley, Bulgaria's fragrant damask roses yield prized pure attar utilized by the world's finest luxury perfumeries."
+ },
+ {
+  "name": "Croatia",
+  "slug": "croatia",
+  "iso2": "hr",
+  "capital": "Zagreb",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "3.9 million",
+  "language": "Croatian",
+  "fact": "Plitvice Lakes National Park enchants visitors with sixteen stepped crystalline lakes connected by dramatic waterfalls pouring through natural travertine dams."
+ },
+ {
+  "name": "Czechia",
+  "slug": "czechia",
+  "iso2": "cz",
+  "capital": "Prague",
+  "continent": "Europe",
+  "currency": "Czech Koruna (CZK)",
+  "population": "10.9 million",
+  "language": "Czech",
+  "fact": "Boasting more than two thousand castles, châteaux, and fortress ruins, the country preserves an extraordinary density of architectural heritage spanning several centuries."
+ },
+ {
+  "name": "Denmark",
+  "slug": "denmark",
+  "iso2": "dk",
+  "capital": "Copenhagen",
+  "continent": "Europe",
+  "currency": "Danish Krone (DKK)",
+  "population": "6 million",
+  "language": "Danish",
+  "fact": "Pioneering commercial wind power since the 1970s, Denmark generates over half of its annual electricity from offshore and onshore wind turbines."
+ },
+ {
+  "name": "Estonia",
+  "slug": "estonia",
+  "iso2": "ee",
+  "capital": "Tallinn",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "1.4 million",
+  "language": "Estonian",
+  "fact": "Nearly ninety-nine percent of public services are accessible online twenty-four hours a day, establishing the nation as a global leader in digital innovation."
+ },
+ {
+  "name": "Finland",
+  "slug": "finland",
+  "iso2": "fi",
+  "capital": "Helsinki",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "5.6 million",
+  "language": "Finnish, Swedish",
+  "fact": "Endowed with vast pristine wilderness, Finland encompasses approximately one hundred and eighty-eight thousand freshwater lakes, earning its reputation as the land of lakes."
+ },
+ {
+  "name": "France",
+  "slug": "france",
+  "iso2": "fr",
+  "capital": "Paris",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "68 million",
+  "language": "French",
+  "fact": "UNESCO inscribed the multi-course French gastronomic meal on its Intangible Cultural Heritage list in recognition of its rich culinary rituals and social togetherness."
+ },
+ {
+  "name": "Germany",
+  "slug": "germany",
+  "iso2": "de",
+  "capital": "Berlin",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "84 million",
+  "language": "German",
+  "fact": "Centuries of careful sustainable woodland management have enabled lush forests to cover almost one-third of the nation's total land area today."
+ },
+ {
+  "name": "Greece",
+  "slug": "greece",
+  "iso2": "gr",
+  "capital": "Athens",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "10.4 million",
+  "language": "Greek",
+  "fact": "Perched dramatically atop colossal natural sandstone monoliths, the historic Eastern Orthodox monasteries of Meteora offer awe-inspiring views and remarkable architectural mastery."
+ },
+ {
+  "name": "Hungary",
+  "slug": "hungary",
+  "iso2": "hu",
+  "capital": "Budapest",
+  "continent": "Europe",
+  "currency": "Hungarian Forint (HUF)",
+  "population": "9.6 million",
+  "language": "Hungarian",
+  "fact": "Heated by subterranean geothermal springs, Lake Hévíz constitutes the largest biologically active, swimmable thermal lake anywhere in the world."
+ },
+ {
+  "name": "Iceland",
+  "slug": "iceland",
+  "iso2": "is",
+  "capital": "Reykjavík",
+  "continent": "Europe",
+  "currency": "Icelandic Króna (ISK)",
+  "population": "390,000",
+  "language": "Icelandic",
+  "fact": "Harnessing volcanic heat and glacial cascades, the island nation produces virtually all of its domestic electricity and home heating through renewable energy."
+ },
+ {
+  "name": "Ireland",
+  "slug": "ireland",
+  "iso2": "ie",
+  "capital": "Dublin",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "5.3 million",
+  "language": "Irish, English",
+  "fact": "Rising sheer above the pounding Atlantic surf, the majestic Cliffs of Moher provide a sanctuary for over twenty distinct seabird species."
+ },
+ {
+  "name": "Italy",
+  "slug": "italy",
+  "iso2": "it",
+  "capital": "Rome",
+  "continent": "Europe",
+  "currency": "Euro (EUR)",
+  "population": "59 million",
+  "language": "Italian",
+  "fact": "Celebrated for timeless architecture and artistic genius, Italy safeguards sixty UNESCO World Heritage sites spanning ancient classical ruins to magnificent Renaissance cathedrals."
+ }
+]

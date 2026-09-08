@@ -1,0 +1,167 @@
+[
+ {
+  "name": "Jordan",
+  "slug": "jordan",
+  "iso2": "jo",
+  "capital": "Amman",
+  "continent": "Asia",
+  "currency": "Jordanian Dinar (JOD)",
+  "population": "11.5 million",
+  "language": "Arabic",
+  "fact": "Carved directly into vibrant red sandstone cliffs over two millennia ago, the ancient Nabataean city of Petra remains one of the world's most breathtaking architectural wonders."
+ },
+ {
+  "name": "Kazakhstan",
+  "slug": "kazakhstan",
+  "iso2": "kz",
+  "capital": "Astana",
+  "continent": "Asia",
+  "currency": "Kazakhstani Tenge (KZT)",
+  "population": "20 million",
+  "language": "Kazakh, Russian",
+  "fact": "Genetic studies confirm that Kazakhstan's wild apple forests in the Tian Shan mountains are the ancestral origin of all domesticated apple varieties enjoyed across the globe today."
+ },
+ {
+  "name": "Kuwait",
+  "slug": "kuwait",
+  "iso2": "kw",
+  "capital": "Kuwait City",
+  "continent": "Asia",
+  "currency": "Kuwaiti Dinar (KWD)",
+  "population": "4.3 million",
+  "language": "Arabic",
+  "fact": "Stretching over thirty-six kilometers across Kuwait Bay, the remarkable Sheikh Jaber Al-Ahmad Al-Sabah Causeway ranks among the world's longest and most advanced vehicular sea bridge networks."
+ },
+ {
+  "name": "Kyrgyzstan",
+  "slug": "kyrgyzstan",
+  "iso2": "kg",
+  "capital": "Bishkek",
+  "continent": "Asia",
+  "currency": "Kyrgyzstani Som (KGS)",
+  "population": "7.1 million",
+  "language": "Kyrgyz, Russian",
+  "fact": "Surrounded by snow-capped Tian Shan peaks, the crystal-clear waters of Lake Issyk-Kul never freeze during winter, earning this magnificent alpine jewel the title of Central Asia's warm lake."
+ },
+ {
+  "name": "Laos",
+  "slug": "laos",
+  "iso2": "la",
+  "capital": "Vientiane",
+  "continent": "Asia",
+  "currency": "Lao Kip (LAK)",
+  "population": "7.6 million",
+  "language": "Lao",
+  "fact": "Nestled along the Mekong River, the UNESCO-listed ancient town of Luang Prabang gracefully blends historic Buddhist temples with lush tropical landscapes and vibrant artisan traditions."
+ },
+ {
+  "name": "Lebanon",
+  "slug": "lebanon",
+  "iso2": "lb",
+  "capital": "Beirut",
+  "continent": "Asia",
+  "currency": "Lebanese Pound (LBP)",
+  "population": "5.3 million",
+  "language": "Arabic",
+  "fact": "The breathtaking subterranean limestone caverns of Jeita Grotto showcase magnificent stalactite formations spanning nearly nine kilometers, creating one of the world's most spectacular natural cave systems."
+ },
+ {
+  "name": "Malaysia",
+  "slug": "malaysia",
+  "iso2": "my",
+  "capital": "Kuala Lumpur (federal; Putrajaya administrative)",
+  "continent": "Asia",
+  "currency": "Malaysian Ringgit (MYR)",
+  "population": "34.5 million",
+  "language": "Malay",
+  "fact": "Estimated at over one hundred and thirty million years old, Taman Negara flourishes as one of the planet's oldest continuous primary tropical rainforests, harboring exceptional biodiversity."
+ },
+ {
+  "name": "Maldives",
+  "slug": "maldives",
+  "iso2": "mv",
+  "capital": "Malé",
+  "continent": "Asia",
+  "currency": "Maldivian Rufiyaa (MVR)",
+  "population": "520,000",
+  "language": "Dhivehi",
+  "fact": "Designated as a UNESCO Biosphere Reserve, Baa Atoll hosts world-renowned seasonal gatherings of hundreds of graceful manta rays feeding in the nutrient-rich waters of Hanifaru Bay."
+ },
+ {
+  "name": "Mongolia",
+  "slug": "mongolia",
+  "iso2": "mn",
+  "capital": "Ulaanbaatar",
+  "continent": "Asia",
+  "currency": "Mongolian Tugrik (MNT)",
+  "population": "3.5 million",
+  "language": "Mongolian",
+  "fact": "Dedicated international conservation efforts successfully reintroduced the endangered Przewalski's horse, known locally as the takhi, to roam freely across Mongolia's sweeping native steppes."
+ },
+ {
+  "name": "Myanmar",
+  "slug": "myanmar",
+  "iso2": "mm",
+  "capital": "Naypyidaw",
+  "continent": "Asia",
+  "currency": "Myanmar Kyat (MMK)",
+  "population": "54 million",
+  "language": "Burmese",
+  "fact": "Across the lush central plains of Bagan, more than three thousand ancient Buddhist temples and pagodas create one of Asia's most spectacular archaeological landscapes."
+ },
+ {
+  "name": "Nepal",
+  "slug": "nepal",
+  "iso2": "np",
+  "capital": "Kathmandu",
+  "continent": "Asia",
+  "currency": "Nepalese Rupee (NPR)",
+  "population": "31 million",
+  "language": "Nepali",
+  "fact": "Eight of the world's fourteen highest mountain peaks rise within Nepal's dramatic Himalayan terrain, including the majestic summit of Mount Everest."
+ },
+ {
+  "name": "North Korea",
+  "slug": "north-korea",
+  "iso2": "kp",
+  "capital": "Pyongyang",
+  "continent": "Asia",
+  "currency": "North Korean Won (KPW)",
+  "population": "26 million",
+  "language": "Korean",
+  "fact": "Perched in a volcanic crater atop Mount Paektu, the pristine waters of Heaven Lake form one of the highest and deepest alpine crater lakes in the world."
+ },
+ {
+  "name": "Oman",
+  "slug": "oman",
+  "iso2": "om",
+  "capital": "Muscat",
+  "continent": "Asia",
+  "currency": "Omani Rial (OMR)",
+  "population": "5.2 million",
+  "language": "Arabic",
+  "fact": "Dating back more than two thousand years, Oman's UNESCO-recognized aflaj irrigation systems utilize gravity to deliver mountain spring water sustainably to desert farming communities."
+ },
+ {
+  "name": "Pakistan",
+  "slug": "pakistan",
+  "iso2": "pk",
+  "capital": "Islamabad",
+  "continent": "Asia",
+  "currency": "Pakistani Rupee (PKR)",
+  "population": "245 million",
+  "language": "Urdu, English",
+  "fact": "The artisan city of Sialkot manufactures over seventy percent of the world's hand-stitched soccer balls, including the official match balls used in premier FIFA World Cup tournaments."
+ },
+ {
+  "name": "Palestine",
+  "slug": "palestine",
+  "iso2": "ps",
+  "capital": "Ramallah (administrative seat; Jerusalem is the proclaimed capital)",
+  "continent": "Asia",
+  "currency": "Israeli New Shekel (ILS)",
+  "population": "5.5 million",
+  "language": "Arabic",
+  "fact": "Celebrated on UNESCO's Intangible Cultural Heritage list, the traditional folk embroidery known as Tatreez weaves intricate cross-stitch patterns that preserve centuries of vibrant regional storytelling."
+ }
+]

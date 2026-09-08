@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Romania",
+    "slug": "romania",
+    "iso2": "ro",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "currency": "Romanian Leu (RON)",
+    "population": "19 million",
+    "language": "Romanian",
+    "fact": "The Danube Delta Biosphere Reserve safeguards Europe's largest wetland ecosystem, harboring vast reed beds and providing vital sanctuary for hundreds of migratory bird species."
+  },
+  {
+    "name": "Russia",
+    "slug": "russia",
+    "iso2": "ru",
+    "capital": "Moscow",
+    "continent": "Europe",
+    "currency": "Russian Ruble (RUB)",
+    "population": "144 million",
+    "language": "Russian",
+    "fact": "Plunging more than a mile deep in Siberia, ancient Lake Baikal contains one-fifth of Earth's unfrozen freshwater and shelters thousands of unique endemic species."
+  },
+  {
+    "name": "San Marino",
+    "slug": "san-marino",
+    "iso2": "sm",
+    "capital": "City of San Marino",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "34,000",
+    "language": "Italian",
+    "fact": "Three iconic medieval fortresses crown the limestone peaks of Mount Titano, offering sweeping vistas of the surrounding Apennine countryside and the Adriatic Sea."
+  },
+  {
+    "name": "Serbia",
+    "slug": "serbia",
+    "iso2": "rs",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "currency": "Serbian Dinar (RSD)",
+    "population": "6.7 million",
+    "language": "Serbian",
+    "fact": "Deep in the Dinaric Alps, Tara National Park shelters the rare Serbian spruce, an ancient botanical treasure that survived prehistoric ice ages."
+  },
+  {
+    "name": "Slovakia",
+    "slug": "slovakia",
+    "iso2": "sk",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "5.4 million",
+    "language": "Slovak",
+    "fact": "With hundreds of fortified châteaux and ruins dotting its green hillsides, Slovakia features one of the world's highest concentrations of historic castles per capita."
+  },
+  {
+    "name": "Slovenia",
+    "slug": "slovenia",
+    "iso2": "si",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "2.1 million",
+    "language": "Slovenian",
+    "fact": "Surrounded by the snow-dusted Julian Alps, the emerald waters of Lake Bled encircle Slovenia's sole natural island, famed for its picturesque cliffside church."
+  },
+  {
+    "name": "Spain",
+    "slug": "spain",
+    "iso2": "es",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "49 million",
+    "language": "Spanish",
+    "fact": "Antoni Gaudí's visionary architecture graces Barcelona, where the soaring, nature-inspired towers of the Sagrada Família showcase an extraordinary triumph of artistic engineering."
+  },
+  {
+    "name": "Sweden",
+    "slug": "sweden",
+    "iso2": "se",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "currency": "Swedish Krona (SEK)",
+    "population": "10.6 million",
+    "language": "Swedish",
+    "fact": "Swedish engineer Nils Bohlin invented the three-point seatbelt in 1959, a life-saving design that Volvo made freely available to all automobile manufacturers."
+  },
+  {
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "iso2": "ch",
+    "capital": "Bern",
+    "continent": "Europe",
+    "currency": "Swiss Franc (CHF)",
+    "population": "8.9 million",
+    "language": "German, French",
+    "fact": "Engineers carved the fifty-seven-kilometer Gotthard Base Tunnel directly through Alpine granite, creating the world's longest and deepest subterranean rail passage."
+  },
+  {
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "iso2": "ua",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "currency": "Ukrainian Hryvnia (UAH)",
+    "population": "38 million",
+    "language": "Ukrainian",
+    "fact": "Adorned with radiant eleventh-century mosaics and frescoes, Kyiv's Saint Sophia Cathedral stands as a magnificent UNESCO-listed treasure of medieval art and architecture."
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "united-kingdom",
+    "iso2": "gb",
+    "capital": "London",
+    "continent": "Europe",
+    "currency": "British Pound (GBP)",
+    "population": "68 million",
+    "language": "English",
+    "fact": "In 1928, Scottish scientist Alexander Fleming discovered penicillin at St Mary's Hospital, inaugurating modern antibiotics and saving hundreds of millions of lives worldwide."
+  },
+  {
+    "name": "Vatican City",
+    "slug": "vatican-city",
+    "iso2": "va",
+    "capital": "Vatican City",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "800",
+    "language": "Italian, Latin",
+    "fact": "Vatican City is the only sovereign state in the world inscribed in its entirety as a UNESCO World Heritage site, safeguarding centuries of celebrated art and architecture."
+  }
+]

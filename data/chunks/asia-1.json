@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Afghanistan",
+    "slug": "afghanistan",
+    "iso2": "af",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "currency": "Afghan Afghani (AFN)",
+    "population": "42.6 million",
+    "language": "Pashto, Dari",
+    "fact": "Afghanistan's first national park, Band-e Amir, features six striking deep-blue lakes created by natural mineral dams across the rugged Hindu Kush."
+  },
+  {
+    "name": "Armenia",
+    "slug": "armenia",
+    "iso2": "am",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "currency": "Armenian Dram (AMD)",
+    "population": "3 million",
+    "language": "Armenian",
+    "fact": "Armenia made chess a mandatory subject in primary schools nationwide, fostering strategic thinking and problem-solving skills in young minds."
+  },
+  {
+    "name": "Azerbaijan",
+    "slug": "azerbaijan",
+    "iso2": "az",
+    "capital": "Baku",
+    "continent": "Asia",
+    "currency": "Azerbaijani Manat (AZN)",
+    "population": "10.4 million",
+    "language": "Azerbaijani",
+    "fact": "More than four hundred bubbling mud volcanoes dot the landscape of Azerbaijan, representing over half of the world's total mud volcano formations."
+  },
+  {
+    "name": "Bahrain",
+    "slug": "bahrain",
+    "iso2": "bh",
+    "capital": "Manama",
+    "continent": "Asia",
+    "currency": "Bahraini Dinar (BHD)",
+    "population": "1.5 million",
+    "language": "Arabic",
+    "fact": "The Bahrain World Trade Center was the first skyscraper in the world to integrate large-scale wind turbines directly into its architectural design."
+  },
+  {
+    "name": "Bangladesh",
+    "slug": "bangladesh",
+    "iso2": "bd",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "currency": "Bangladeshi Taka (BDT)",
+    "population": "173 million",
+    "language": "Bengali",
+    "fact": "Spanning the southern coast of Bangladesh, the Sundarbans forms the largest contiguous mangrove forest on Earth and shelters diverse wildlife."
+  },
+  {
+    "name": "Bhutan",
+    "slug": "bhutan",
+    "iso2": "bt",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "currency": "Bhutanese Ngultrum (BTN)",
+    "population": "790,000",
+    "language": "Dzongkha",
+    "fact": "By absorbing significantly more carbon dioxide than it emits, Bhutan stands proudly as one of the world's few carbon-negative nations."
+  },
+  {
+    "name": "Brunei",
+    "slug": "brunei",
+    "iso2": "bn",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "currency": "Brunei Dollar (BND)",
+    "population": "450,000",
+    "language": "Malay",
+    "fact": "Ulu Temburong National Park preserves vast tracts of pristine primary rainforest, accessible mainly by traditional longboats to protect delicate biodiversity."
+  },
+  {
+    "name": "Cambodia",
+    "slug": "cambodia",
+    "iso2": "kh",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "currency": "Cambodian Riel (KHR)",
+    "population": "17 million",
+    "language": "Khmer",
+    "fact": "Angkor Wat stands as the largest religious monument on Earth, celebrated for its intricate sandstone bas-reliefs and visionary ancient Khmer engineering."
+  },
+  {
+    "name": "China",
+    "slug": "china",
+    "iso2": "cn",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "currency": "Chinese Yuan (CNY)",
+    "population": "1.41 billion",
+    "language": "Mandarin",
+    "fact": "Decades of dedicated reforestation and habitat protection across China successfully lifted the iconic giant panda off the endangered species list."
+  },
+  {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "iso2": "cy",
+    "capital": "Nicosia",
+    "continent": "Asia",
+    "currency": "Euro (EUR)",
+    "population": "1.3 million",
+    "language": "Greek, Turkish",
+    "fact": "Protected coastal beaches across Cyprus serve as vital nesting sanctuaries for endangered green and loggerhead sea turtles returning annually to the Mediterranean."
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "iso2": "ge",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "currency": "Georgian Lari (GEL)",
+    "population": "3.7 million",
+    "language": "Georgian",
+    "fact": "Winemakers in Georgia continue an unbroken eight-thousand-year tradition of fermenting vintage grapes inside large subterranean clay vessels known as qvevri."
+  },
+  {
+    "name": "India",
+    "slug": "india",
+    "iso2": "in",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "currency": "Indian Rupee (INR)",
+    "population": "1.43 billion",
+    "language": "Hindi, English",
+    "fact": "With the triumphant Chandrayaan-3 mission, India achieved the historic scientific milestone of soft-landing an exploration rover near the Moon's south pole."
+  },
+  {
+    "name": "Indonesia",
+    "slug": "indonesia",
+    "iso2": "id",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "currency": "Indonesian Rupiah (IDR)",
+    "population": "279 million",
+    "language": "Indonesian",
+    "fact": "The coral reefs of Raja Ampat harbor the richest marine biodiversity documented anywhere on Earth, sheltering over five hundred species of coral."
+  },
+  {
+    "name": "Iran",
+    "slug": "iran",
+    "iso2": "ir",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "currency": "Iranian Rial (IRR)",
+    "population": "89 million",
+    "language": "Persian",
+    "fact": "Ancient Persian engineers developed the ingenious qanat system, utilizing subterranean aqueducts to channel fresh mountain water across arid plains for sustainable agriculture."
+  },
+  {
+    "name": "Iraq",
+    "slug": "iraq",
+    "iso2": "iq",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "currency": "Iraqi Dinar (IQD)",
+    "population": "45 million",
+    "language": "Arabic, Kurdish",
+    "fact": "Extensive ecological restoration revived the Mesopotamian Marshes, returning lush wetlands and migrating waterfowl to this UNESCO-protected cradle of ancient civilization."
+  },
+  {
+    "name": "Israel",
+    "slug": "israel",
+    "iso2": "il",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "currency": "Israeli New Shekel (ILS)",
+    "population": "9.8 million",
+    "language": "Hebrew",
+    "fact": "Pioneering drip irrigation and advanced wastewater recycling, Israeli agricultural engineers enabled thriving crop yields in arid desert environments worldwide."
+  },
+  {
+    "name": "Japan",
+    "slug": "japan",
+    "iso2": "jp",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "currency": "Japanese Yen (JPY)",
+    "population": "124 million",
+    "language": "Japanese",
+    "fact": "Operating at high speeds since 1964, the iconic Shinkansen rail network has maintained a flawless passenger safety record throughout six decades of service."
+  }
+]

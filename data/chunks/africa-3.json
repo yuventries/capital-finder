@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Niger",
+    "slug": "niger",
+    "iso2": "ne",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "27 million",
+    "language": "French",
+    "fact": "The historic desert city of Agadez showcases an impressive earthen mosque featuring a 27-meter minaret, the tallest mud-brick structure of its kind."
+  },
+  {
+    "name": "Nigeria",
+    "slug": "nigeria",
+    "iso2": "ng",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "currency": "Nigerian Naira (NGN)",
+    "population": "228 million",
+    "language": "English",
+    "fact": "Celebrated worldwide as a creative powerhouse, Nigeria produces chart-topping Afrobeats music and an innovative film industry that inspires audiences across continents."
+  },
+  {
+    "name": "Rwanda",
+    "slug": "rwanda",
+    "iso2": "rw",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "currency": "Rwandan Franc (RWF)",
+    "population": "14 million",
+    "language": "Kinyarwanda, English",
+    "fact": "Successful community-led conservation in Volcanoes National Park has helped Rwanda steadily increase its population of endangered mountain gorillas over recent decades."
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "slug": "sao-tome-and-principe",
+    "iso2": "st",
+    "capital": "São Tomé",
+    "continent": "Africa",
+    "currency": "São Tomé and Príncipe Dobra (STN)",
+    "population": "235,000",
+    "language": "Portuguese",
+    "fact": "Renowned as the Chocolate Islands, this volcanic archipelago cultivates premium organic cocoa alongside lush rainforests protected within a designated UNESCO Biosphere Reserve."
+  },
+  {
+    "name": "Senegal",
+    "slug": "senegal",
+    "iso2": "sn",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "18 million",
+    "language": "French, Wolof",
+    "fact": "Every winter, millions of migratory birds gather at the Djoudj National Bird Sanctuary, creating one of the world's most spectacular avian refuges."
+  },
+  {
+    "name": "Seychelles",
+    "slug": "seychelles",
+    "iso2": "sc",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "currency": "Seychellois Rupee (SCR)",
+    "population": "108,000",
+    "language": "Seychellois Creole, English",
+    "fact": "The remote Aldabra Atoll provides a pristine sanctuary for more than one hundred thousand giant tortoises, the largest wild colony on Earth."
+  },
+  {
+    "name": "Sierra Leone",
+    "slug": "sierra-leone",
+    "iso2": "sl",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "currency": "Sierra Leonean Leone (SLE)",
+    "population": "8.9 million",
+    "language": "English",
+    "fact": "Nestled in the rainforest near Freetown, Tacugama Chimpanzee Sanctuary rescues vulnerable primates and leads vital conservation education initiatives throughout the country."
+  },
+  {
+    "name": "Somalia",
+    "slug": "somalia",
+    "iso2": "so",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "currency": "Somali Shilling (SOS)",
+    "population": "19 million",
+    "language": "Somali, Arabic",
+    "fact": "Treasured as a nation of poets, Somalia honors an illustrious oral storytelling tradition while bordering mainland Africa's longest coastline along the Indian Ocean."
+  },
+  {
+    "name": "South Africa",
+    "slug": "south-africa",
+    "iso2": "za",
+    "capital": "Pretoria (executive; Cape Town legislative, Bloemfontein judicial)",
+    "continent": "Africa",
+    "currency": "South African Rand (ZAR)",
+    "population": "61 million",
+    "language": "isiZulu, English",
+    "fact": "The Cape Floral Region forms one of Earth's richest botanical hotspots, sheltering thousands of endemic flowering plant species found nowhere else."
+  },
+  {
+    "name": "South Sudan",
+    "slug": "south-sudan",
+    "iso2": "ss",
+    "capital": "Juba",
+    "continent": "Africa",
+    "currency": "South Sudanese Pound (SSP)",
+    "population": "12 million",
+    "language": "English",
+    "fact": "Spanning across expansive savannahs and wetlands, the Great Nile Migration sees millions of antelopes traverse South Sudan in the largest land mammal migration on Earth."
+  },
+  {
+    "name": "Sudan",
+    "slug": "sudan",
+    "iso2": "sd",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "currency": "Sudanese Pound (SDG)",
+    "population": "49 million",
+    "language": "Arabic, English",
+    "fact": "The archaeological park of Meroë preserves more than two hundred steep-sided stone pyramids that showcase the remarkable architectural legacy of the ancient Kingdom of Kush."
+  },
+  {
+    "name": "Tanzania",
+    "slug": "tanzania",
+    "iso2": "tz",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "currency": "Tanzanian Shilling (TZS)",
+    "population": "68 million",
+    "language": "Swahili, English",
+    "fact": "Rising majestically above the plains, Mount Kilimanjaro stands as Africa's highest mountain and the tallest free-standing volcanic peak in the world."
+  },
+  {
+    "name": "Togo",
+    "slug": "togo",
+    "iso2": "tg",
+    "capital": "Lomé",
+    "continent": "Africa",
+    "currency": "West African CFA Franc (XOF)",
+    "population": "9.3 million",
+    "language": "French",
+    "fact": "The UNESCO-inscribed Koutammakou landscape features remarkable two-story mud tower-houses known as Takienta, reflecting ingenious traditional architecture and harmony with nature."
+  },
+  {
+    "name": "Tunisia",
+    "slug": "tunisia",
+    "iso2": "tn",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "currency": "Tunisian Dinar (TND)",
+    "population": "12.5 million",
+    "language": "Arabic",
+    "fact": "The colossal third-century Amphitheatre of El Jem stands remarkably intact in central Tunisia as an exceptional masterpiece of ancient Roman monumental architecture."
+  },
+  {
+    "name": "Uganda",
+    "slug": "uganda",
+    "iso2": "ug",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "currency": "Ugandan Shilling (UGX)",
+    "population": "49 million",
+    "language": "English, Swahili",
+    "fact": "The snow-capped Rwenzori Mountains, historically called the Mountains of the Moon, feature rare equatorial glaciers and dramatic afro-alpine vegetation along Uganda's western border."
+  },
+  {
+    "name": "Zambia",
+    "slug": "zambia",
+    "iso2": "zm",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "currency": "Zambian Kwacha (ZMW)",
+    "population": "21 million",
+    "language": "English",
+    "fact": "Victoria Falls plunges into the Zambezi River gorge, generating a colossal curtain of falling water whose misty spray can be seen dozens of kilometers away."
+  },
+  {
+    "name": "Zimbabwe",
+    "slug": "zimbabwe",
+    "iso2": "zw",
+    "capital": "Harare",
+    "continent": "Africa",
+    "currency": "Zimbabwe Gold (ZWG)",
+    "population": "16.6 million",
+    "language": "English, Shona",
+    "fact": "The magnificent granite ruins of Great Zimbabwe stand as a testament to medieval African architectural genius, featuring massive dry-stone walls built entirely without mortar."
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Kosovo",
+    "slug": "kosovo",
+    "iso2": "xk",
+    "capital": "Pristina",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "1.6 million",
+    "language": "Albanian, Serbian",
+    "fact": "Nestled among dramatic limestone cliffs in the Accursed Mountains, Rugova Canyon features pristine mountain springs, cascading waterfalls, and spectacular hiking routes."
+  },
+  {
+    "name": "Latvia",
+    "slug": "latvia",
+    "iso2": "lv",
+    "capital": "Riga",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "1.9 million",
+    "language": "Latvian",
+    "fact": "Riga boasts one of the world's richest collections of Art Nouveau architecture, with more than eight hundred ornate facades adorning its historic boulevards."
+  },
+  {
+    "name": "Liechtenstein",
+    "slug": "liechtenstein",
+    "iso2": "li",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "currency": "Swiss Franc (CHF)",
+    "population": "40,000",
+    "language": "German",
+    "fact": "The scenic Liechtenstein Trail connects all eleven municipalities along a seventy-five-kilometer route, guiding hikers through panoramic Alpine pastures, castle ruins, and historic vineyards."
+  },
+  {
+    "name": "Lithuania",
+    "slug": "lithuania",
+    "iso2": "lt",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "2.9 million",
+    "language": "Lithuanian",
+    "fact": "Renowned for laser technology, Lithuania produces world-class ultra-fast scientific lasers that equip top research laboratories, universities, and space missions worldwide."
+  },
+  {
+    "name": "Luxembourg",
+    "slug": "luxembourg",
+    "iso2": "lu",
+    "capital": "Luxembourg",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "670,000",
+    "language": "Luxembourgish, French",
+    "fact": "In 2020, Luxembourg became the first country in the world to make all standard public transport nationwide, including trains, trams, and buses, completely free of charge."
+  },
+  {
+    "name": "Malta",
+    "slug": "malta",
+    "iso2": "mt",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "535,000",
+    "language": "Maltese, English",
+    "fact": "Constructed more than five millennia ago, Malta's remarkable Megalithic Temples rank among the world's earliest free-standing stone structures and are recognized as UNESCO World Heritage treasures."
+  },
+  {
+    "name": "Moldova",
+    "slug": "moldova",
+    "iso2": "md",
+    "capital": "Chișinău",
+    "continent": "Europe",
+    "currency": "Moldovan Leu (MDL)",
+    "population": "2.5 million",
+    "language": "Romanian",
+    "fact": "Recognized by Guinness World Records, the subterranean cellars of Mileștii Mici house nearly two million vintage bottles within dozens of kilometers of underground limestone galleries."
+  },
+  {
+    "name": "Monaco",
+    "slug": "monaco",
+    "iso2": "mc",
+    "capital": "Monaco",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "39,000",
+    "language": "French",
+    "fact": "Overlooking the Mediterranean from sheer cliffs, the Oceanographic Museum has spearheaded marine research and coral conservation since its establishment in 1910."
+  },
+  {
+    "name": "Montenegro",
+    "slug": "montenegro",
+    "iso2": "me",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "620,000",
+    "language": "Montenegrin",
+    "fact": "Durmitor National Park protects the dramatic Tara River Canyon, Europe's deepest river gorge, celebrated for pristine turquoise waters and untouched alpine wilderness."
+  },
+  {
+    "name": "Netherlands",
+    "slug": "netherlands",
+    "iso2": "nl",
+    "capital": "Amsterdam (The Hague seat of government)",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "18 million",
+    "language": "Dutch",
+    "fact": "Boasting more bicycles than permanent residents, the country maintains over thirty-five thousand kilometers of dedicated cycling paths that foster an extraordinarily green urban lifestyle."
+  },
+  {
+    "name": "North Macedonia",
+    "slug": "north-macedonia",
+    "iso2": "mk",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "currency": "Macedonian Denar (MKD)",
+    "population": "1.8 million",
+    "language": "Macedonian, Albanian",
+    "fact": "Formed millions of years ago, Lake Ohrid is one of Europe's oldest and deepest lakes, preserving over two hundred unique endemic species in its crystalline waters."
+  },
+  {
+    "name": "Norway",
+    "slug": "norway",
+    "iso2": "no",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "currency": "Norwegian Krone (NOK)",
+    "population": "5.6 million",
+    "language": "Norwegian",
+    "fact": "Deep inside an Arctic mountain on Spitsbergen, the Svalbard Global Seed Vault safely preserves over one million seed varieties to secure global food biodiversity."
+  },
+  {
+    "name": "Poland",
+    "slug": "poland",
+    "iso2": "pl",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "currency": "Polish Złoty (PLN)",
+    "population": "38 million",
+    "language": "Polish",
+    "fact": "The subterranean Wieliczka Salt Mine enchants visitors with an underground cathedral, ornate chandeliers, and sacred statues sculpted entirely from natural rock salt."
+  },
+  {
+    "name": "Portugal",
+    "slug": "portugal",
+    "iso2": "pt",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "currency": "Euro (EUR)",
+    "population": "10.5 million",
+    "language": "Portuguese",
+    "fact": "Portugal supplies more than half of the planet's cork, sustainably harvesting the bark of cork oak forests by hand without cutting down a single tree."
+  }
+]

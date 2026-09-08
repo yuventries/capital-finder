@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Philippines",
+    "slug": "philippines",
+    "iso2": "ph",
+    "capital": "Manila",
+    "continent": "Asia",
+    "currency": "Philippine Peso (PHP)",
+    "population": "117 million",
+    "language": "Filipino, English",
+    "fact": "The Tubbataha Reefs Natural Park protects extraordinary marine biodiversity, housing nearly half of the world's coral species across its pristine underwater atolls."
+  },
+  {
+    "name": "Qatar",
+    "slug": "qatar",
+    "iso2": "qa",
+    "capital": "Doha",
+    "continent": "Asia",
+    "currency": "Qatari Riyal (QAR)",
+    "population": "3 million",
+    "language": "Arabic",
+    "fact": "Doha's Museum of Islamic Art showcases fourteen centuries of exquisite artistry from three continents within a striking limestone landmark along the waterfront promenade."
+  },
+  {
+    "name": "Saudi Arabia",
+    "slug": "saudi-arabia",
+    "iso2": "sa",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "currency": "Saudi Riyal (SAR)",
+    "population": "37 million",
+    "language": "Arabic",
+    "fact": "Carved into desert sandstone cliffs, the ancient Nabataean monumental tombs at Hegra stand preserved as the kingdom's first designated UNESCO World Heritage Site."
+  },
+  {
+    "name": "Singapore",
+    "slug": "singapore",
+    "iso2": "sg",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "currency": "Singapore Dollar (SGD)",
+    "population": "6 million",
+    "language": "English, Malay",
+    "fact": "Over forty percent of the island is blanketed in lush green spaces, earning this vibrant city-state global acclaim as a pioneer in biophilic urban design."
+  },
+  {
+    "name": "South Korea",
+    "slug": "south-korea",
+    "iso2": "kr",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "currency": "South Korean Won (KRW)",
+    "population": "51 million",
+    "language": "Korean",
+    "fact": "Created in the fifteenth century, the Korean alphabet Hangul is celebrated globally for its scientific phonetic design and remarkable ease of learning."
+  },
+  {
+    "name": "Sri Lanka",
+    "slug": "sri-lanka",
+    "iso2": "lk",
+    "capital": "Sri Jayawardenepura Kotte (legislative; Colombo executive, judicial)",
+    "continent": "Asia",
+    "currency": "Sri Lankan Rupee (LKR)",
+    "population": "22 million",
+    "language": "Sinhala, Tamil",
+    "fact": "Rising dramatically above surrounding forests, the ancient rock citadel of Sigiriya showcases brilliant fifth-century hydraulic engineering, fresco art, and landscaped water gardens."
+  },
+  {
+    "name": "Syria",
+    "slug": "syria",
+    "iso2": "sy",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "currency": "Syrian Pound (SYP)",
+    "population": "24 million",
+    "language": "Arabic",
+    "fact": "Cultivated for centuries around Damascus, the fragrant Damascene rose is prized worldwide by master perfumers for its exquisite, pure essential oil."
+  },
+  {
+    "name": "Taiwan",
+    "slug": "taiwan",
+    "iso2": "tw",
+    "capital": "Taipei",
+    "continent": "Asia",
+    "currency": "New Taiwan Dollar (TWD)",
+    "population": "23 million",
+    "language": "Mandarin",
+    "fact": "Originating in Taichung tea rooms during the 1980s, Taiwanese bubble tea has blossomed into a beloved global culinary phenomenon enjoyed across continents."
+  },
+  {
+    "name": "Tajikistan",
+    "slug": "tajikistan",
+    "iso2": "tj",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "currency": "Tajikistani Somoni (TJS)",
+    "population": "10 million",
+    "language": "Tajik",
+    "fact": "High in the Pamir Mountains, Tajik National Park encompasses over two million hectares of spectacular glaciated terrain that shelters endangered snow leopards and rare mountain wildlife."
+  },
+  {
+    "name": "Thailand",
+    "slug": "thailand",
+    "iso2": "th",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "currency": "Thai Baht (THB)",
+    "population": "71 million",
+    "language": "Thai",
+    "fact": "Recognized by UNESCO on its Intangible Cultural Heritage list, traditional Nuad Thai massage combines acupressure and gentle stretching as a time-honored therapeutic healing art."
+  },
+  {
+    "name": "Timor-Leste",
+    "slug": "timor-leste",
+    "iso2": "tl",
+    "capital": "Dili",
+    "continent": "Asia",
+    "currency": "United States Dollar (USD)",
+    "population": "1.4 million",
+    "language": "Tetum, Portuguese",
+    "fact": "Surveys of the pristine reefs surrounding Atauro Island revealed the highest marine biodiversity on Earth, confirming the nation as a premier global sanctuary for coral conservation."
+  },
+  {
+    "name": "Turkey",
+    "slug": "turkey",
+    "iso2": "tr",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "currency": "Turkish Lira (TRY)",
+    "population": "85 million",
+    "language": "Turkish",
+    "fact": "Ancient volcanic landscapes in Cappadocia form a wonderland of honeycomb hills and towering fairy chimneys, admired worldwide by hot-air balloonists gliding over the lunar valleys."
+  },
+  {
+    "name": "Turkmenistan",
+    "slug": "turkmenistan",
+    "iso2": "tm",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "currency": "Turkmenistan Manat (TMT)",
+    "population": "7 million",
+    "language": "Turkmen",
+    "fact": "Prized for their lustrous golden coats and exceptional stamina across harsh deserts, purebred Akhal-Teke horses represent one of the world's oldest and most admired equine breeds."
+  },
+  {
+    "name": "United Arab Emirates",
+    "slug": "united-arab-emirates",
+    "iso2": "ae",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "currency": "UAE Dirham (AED)",
+    "population": "10 million",
+    "language": "Arabic",
+    "fact": "With the historic launch of its Hope probe, the nation became the first Arab country to place an interplanetary robotic spacecraft into orbit around Mars."
+  },
+  {
+    "name": "Uzbekistan",
+    "slug": "uzbekistan",
+    "iso2": "uz",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "currency": "Uzbekistani Som (UZS)",
+    "population": "37 million",
+    "language": "Uzbek",
+    "fact": "The ancient Silk Road crossroads of Samarkand dazzles travelers with the grand Registan plaza, celebrated for its soaring madrasas and brilliant azure mosaic tiles."
+  },
+  {
+    "name": "Vietnam",
+    "slug": "vietnam",
+    "iso2": "vn",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "currency": "Vietnamese Dong (VND)",
+    "population": "100 million",
+    "language": "Vietnamese",
+    "fact": "Hidden beneath Phong Nha-Ke Bang National Park, magnificent Son Doong Cave is so cavernous that its largest chamber could comfortably house a forty-story skyscraper city block."
+  },
+  {
+    "name": "Yemen",
+    "slug": "yemen",
+    "iso2": "ye",
+    "capital": "Sana'a",
+    "continent": "Asia",
+    "currency": "Yemeni Rial (YER)",
+    "population": "35 million",
+    "language": "Arabic",
+    "fact": "Isolated in the Indian Ocean, Socotra Island nurtures hundreds of rare endemic plants, including the legendary dragon's blood tree with its distinctive umbrella-shaped canopy."
+  }
+]
